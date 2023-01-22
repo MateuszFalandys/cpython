@@ -5,7 +5,7 @@
 """Classes to generate plain text from a message object tree."""
 
 __all__ = ['Generator', 'DecodedGenerator', 'BytesGenerator']
-
+#ja tu byłem
 import re
 import sys
 import time
